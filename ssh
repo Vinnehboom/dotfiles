@@ -1,0 +1,15 @@
+Host dteach
+	HostName 15.237.135.104
+	User ubuntu
+
+Host ally
+	HostName 15.188.149.253
+	User ubuntu
+
+Host blue-planet
+	HostName 15.236.87.51
+	User ubuntu
+
+Host bp-internal
+	HostName 15.188.115.192
+	User ubuntu
